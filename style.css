@@ -1,0 +1,27 @@
+/* ID selector */
+#header {
+  background-color: #004080;
+  color: white;
+  font-family: 'Georgia', serif;
+  text-align: center;
+  padding: 20px;
+  border-bottom: 4px solid #003060;
+}
+
+/* Class selector */
+.card {
+  border: 2px solid #ddd;
+  padding: 15px;
+  margin: 20px;
+  background-color: #f9f9f9;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Element selector with image */
+img {
+  width: 200px;
+  border: 3px solid #555;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 10px;
+}
